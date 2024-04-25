@@ -28,7 +28,7 @@ I am the founder/MD of Browsing Tortoise and a Cybersecurity analyst at BUI with
 
 | Name                                        | Associated Link         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Codecademy Python Project          | <a href="https://github.com/PhilipEze/Learning-Python">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
