@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # Hello there, I'm Phil 👋 
 <a href="https://www.linkedin.com/in/philip-eze/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am the founder/MD of Browsing Tortoise and a Cybersecurity analyst at BUI with a profound interest in Cybersecurity, Software development and Education.
+I am the founder of Browsing Tortoise and a Cybersecurity analyst at BUI with a profound interest in Cybersecurity, Software development and Education.
 
 
 ## Latest Projects 👨‍💻 
