@@ -28,12 +28,10 @@ I am the founder of Browsing Tortoise and Bast Technologies with a profound inte
 
 | Name                                        | Associated Link         |
 |-----------------------------------------------|----------------------------|
-| Codecademy Python Project          | <a href="https://github.com/PhilipEze/Learning-Python">Python Projects</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Codecademy Python Projects          | <a href="https://github.com/PhilipEze/Learning-Python">Python Projects</a>|
+| Codecademy Full-Stack Engineer Projects | <a href="https://google.com">Detection Lab</a>|
+| Codecademy Data Scientist: Machine Learning Specialist Projects        |  <a href="https://google.com">Detection Lab</a>|
+| Generic project     |  <a href="https://google.com">Generic Link</a>|
 
 
 ## Connect with me 🤳
