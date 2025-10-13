@@ -29,8 +29,8 @@ I am the founder of Browsing Tortoise and Bast Technologies with a profound inte
 | Name                                        | Associated Link         |
 |-----------------------------------------------|----------------------------|
 | Codecademy Python Projects          | <a href="https://github.com/PhilipEze/Learning-Python">Python Projects</a>|
-| Codecademy Full-Stack Engineer Projects | <a href="https://google.com">Detection Lab</a>|
-| Codecademy Data Scientist: Machine Learning Specialist Projects        |  <a href="https://google.com">Detection Lab</a>|
+| Codecademy Full-Stack Engineer Projects | <a href="https://github.com/PhilipEze/Learning-PERN-stack">PERN Projects</a>|
+| Codecademy Data Scientist: Machine Learning Specialist Projects        |  <a href="https://google.com">Generic Link</a>|
 | Generic project     |  <a href="https://google.com">Generic Link</a>|
 
 
